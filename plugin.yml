@@ -1,0 +1,10 @@
+name: Hfly
+main: Mason\HFly\Main
+api: [3.0.0]
+version: 1.0
+author: Mason
+
+permissions:
+  DarkSide.h.fly:
+    description: 'Allow a player to fly in Hub'
+    default: true
